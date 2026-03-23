@@ -2,7 +2,7 @@
 
 Yatırım Dehası, geçmişteki birikimlerinizin bugünkü değerini saniyeler içinde analiz etmenizi sağlayan gelişmiş bir finansal hesaplama aracıdır. X tarihinde bu parayla altın alsaydım ne olurdu? şeklindeki sorularınıza net verilerle cevap verir.
 
-Yatırım Dehası, bu adresten kullanılabilir: https://www.sigortasozcu.com/yatirim/yatirim-hesaplama.html
+Yatırım Dehası, bu adresten kullanılabilir: https://www.sigortasozcu.com/yatirim/birikim-hesaplama.html
 ___________________________________
 ## 🚀 Öne Çıkan Özellikler
 - Canlı Piyasa Verisi: Yahoo Finance API entegrasyonu ile her zaman güncel verileri kullanır.
